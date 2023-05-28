@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WallCollision
+  - Enemy
+  - RestRoom
+  - Platform
+  - LevelPartA
+  - LevelPartB
+  - Trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - ForderForderGround
+  - Player
+  - Enemy
+  - Ground
+  - ExplosionParts
+  - ForderBackground
+  - IgnorePlayer
+  - Platform
+  - IsCrushing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Gradient
+    uniqueID: 4148816337
+    locked: 0
+  - name: BG
+    uniqueID: 607056611
+    locked: 0
+  - name: FogBack
+    uniqueID: 2135488159
+    locked: 0
+  - name: FBG
+    uniqueID: 1309391277
+    locked: 0
+  - name: FG
+    uniqueID: 1436689163
+    locked: 0
+  - name: Enemy
+    uniqueID: 4081933839
+    locked: 0
+  - name: Player
+    uniqueID: 3720704519
+    locked: 0
+  - name: ExplosionParts
+    uniqueID: 585243489
+    locked: 0
+  - name: NewLayer1
+    uniqueID: 1240985323
+    locked: 0
+  - name: FFG
+    uniqueID: 3478738569
+    locked: 0
+  - name: FogFront
+    uniqueID: 869132125
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
